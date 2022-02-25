@@ -11,6 +11,5 @@ I'm Jason from Singapore, and I enjoy doing backend development in general.
 Currently learning:
 - C++
 
-[<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/kjhjason/)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KJHJason)  
+### Socials
+[<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/kjhjason/)
