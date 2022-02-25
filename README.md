@@ -1,6 +1,7 @@
 # Hi there 👋
 
-I'm Jason from Singapore, and I enjoy doing backend development in general.
+I'm Jason from Singapore, and I have experiences doing both frontend and backend development.
+However, I really love doing development for the backend side.
 
 ## Skills and Experience
 - HTML / CSS / JS / Python
