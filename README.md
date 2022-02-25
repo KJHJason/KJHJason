@@ -12,4 +12,4 @@ Currently learning:
 - C++
 
 ### Socials
-[<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/kjhjason/)
+[<img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' alt='linkedin logo' height='40'>](https://www.linkedin.com/in/kjhjason/)
