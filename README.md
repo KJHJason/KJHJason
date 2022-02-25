@@ -12,7 +12,7 @@ Currently learning:
 - C++
 
 <div align="center">
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KJHJason)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kjhjason/)  
+<a href="https://www.linkedin.com/in/kjhjason/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
 </div>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KJHJason)  
