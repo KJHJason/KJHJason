@@ -3,10 +3,7 @@
 I'm Jason from Singapore, and I enjoy doing backend development in general.
 
 ## Skills and Experience
-- HTML
-- CSS
-- JS
-- Python
+- HTML / CSS / JS / Python
 
 Currently learning:
 - C++
