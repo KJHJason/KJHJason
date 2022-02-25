@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jason
+# Hi there 👋
 
 I'm Jason from Singapore, and I enjoy doing backend development in general.
 
