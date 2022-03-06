@@ -6,6 +6,8 @@ However, I really love doing development for the backend side.
 ## Skills and Experience
 - HTML / CSS / JS / Python
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjhjason&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 Currently learning:
 - C++
 
