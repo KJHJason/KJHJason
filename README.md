@@ -12,4 +12,4 @@ However, I really love doing development for the backend side.
 - Rust / C#
 
 ## Socials
-[<img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' alt='linkedin logo' height='40'>](https://www.linkedin.com/in/kjhjason/)
+[<img src='res/linkedIn_logo.svg' alt='linkedin logo' height='40'>](https://www.linkedin.com/in/kjhjason/)
