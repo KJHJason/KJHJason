@@ -6,7 +6,7 @@ However, I really love doing development for the backend side.
 ## Skills and Experience
 - HTML / CSS / JS / Python / C++ / MySQL / SQLite3
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjhjason&layout=compact&theme=dark&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjhjason&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Interested in Learning!
 - Rust / C#
