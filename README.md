@@ -9,7 +9,7 @@ However, I really love doing development for the backend side.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjhjason&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Interested in Learning!
-- Rust / C#
+- Golang / Rust / C#
 
 ## Socials
 [<img src='res/linkedIn_logo.svg' alt='linkedin logo' height='40'>](https://www.linkedin.com/in/kjhjason/)
