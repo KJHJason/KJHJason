@@ -12,15 +12,15 @@ I'm Jason from Singapore, and I have experiences doing both frontend and backend
 
 However, I really love doing development for the backend side.
 
-[![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjhjason&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjhjason&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kjhjason&theme=monokai)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=kjhjason&theme=dark)](https://git.io/streak-stats) -->
 
 ## Skills and Experience
 
-[![Skill Icons](https://skillicons.dev/icons?i=html,css,js,py,cpp,go,sqlite,mysql,mongodb,flask,fastapi,docker,gcp,cloudflare,selenium&perline=6&center=true)](https://skillicons.dev/)
+[![Skill Icons](https://skillicons.dev/icons?i=html,css,js,py,cpp,go,sqlite,mysql,mongodb,flask,fastapi,docker,gcp,cloudflare,selenium&perline=9&center=true)](https://skillicons.dev/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjhjason&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjhjason&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Interested in Learning!
 
