@@ -10,7 +10,7 @@
 
 I'm Jason from Singapore, and I have experiences doing both frontend and backend development.
 
-However, I really love doing development for the backend side.
+However, I really love doing backend devlopment. You could say it's my passion! ヾ(＾∇＾)
 
 [![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjhjason&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -18,7 +18,7 @@ However, I really love doing development for the backend side.
 
 ## Skills and Experience
 
-[![Skill Icons](https://skillicons.dev/icons?i=html,css,js,py,cpp,go,sqlite,mysql,mongodb,flask,fastapi,docker,gcp,cloudflare,selenium&perline=9&center=true)](https://skillicons.dev/)
+[![Skill Icons](https://skillicons.dev/icons?i=html,css,js,py,cpp,go,sqlite,mysql,mongodb,flask,fastapi,docker,gcp,cloudflare,selenium,bootstrap,tailwind&perline=9&center=true)](https://skillicons.dev/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjhjason&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
