@@ -8,9 +8,9 @@
 
 ## About Me
 
-I'm Jason from Singapore, and I have experiences doing both frontend and backend development.
+I'm Jason from Singapore, and I have experience doing both frontend and backend development.
 
-However, I really love doing backend devlopment. You could say it's my passion! ヾ(＾∇＾)
+My favourite language is Golang and I really enjoy doing backend development. You could say it's my passion! ヾ(＾∇＾)
 
 [![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjhjason&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
