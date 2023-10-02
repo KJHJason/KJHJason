@@ -18,17 +18,17 @@ My favourite language is Golang and I really enjoy doing backend development. Yo
 
 ## Technologies Used
 
-[![Skill Icons](https://skillicons.dev/icons?i=html,css,js,py,cpp,go,cs,md,sqlite,mysql,mongodb,flask,fastapi,docker,gcp,cloudflare,selenium,jquery,bootstrap,tailwind&perline=9&center=true)](https://skillicons.dev/)
+[![Skill Icons](https://skillicons.dev/icons?i=html,css,regex,js,py,cpp,go,cs,dotnet,md,sqlite,mysql,mongodb,flask,fastapi,docker,gcp,cloudflare,selenium,jquery,bootstrap,tailwind,bash,powershell&perline=9&center=true)](https://skillicons.dev/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjhjason&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## My Go-to Editing Software
+## My Go-to Development Software
 
-[![Skill Icons](https://skillicons.dev/icons?i=vscode,visualstudio&perline=9&center=true)](https://skillicons.dev/)
+[![Skill Icons](https://skillicons.dev/icons?i=vscode,visualstudio,postman,ps,&perline=9&center=true)](https://skillicons.dev/)
 
 ## Interested in Learning!
 
-[![Skill Icons](https://skillicons.dev/icons?i=rust,aws&perline=10&center=true)](https://skillicons.dev/)
+[![Skill Icons](https://skillicons.dev/icons?i=rust,aws,react,ts&perline=10&center=true)](https://skillicons.dev/)
 
 ## Socials
 
