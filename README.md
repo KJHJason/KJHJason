@@ -26,9 +26,13 @@ My favourite language is Golang and I really enjoy doing backend development. Yo
 
 [![Skill Icons](https://skillicons.dev/icons?i=vscode,visualstudio,postman,ps,&perline=9&center=true)](https://skillicons.dev/)
 
+## Learning
+
+[![Skill Icons](https://skillicons.dev/icons?i=ts,svelte,&perline=9&center=true)](https://skillicons.dev/)
+
 ## Interested in Learning!
 
-[![Skill Icons](https://skillicons.dev/icons?i=rust,aws,react,ts&perline=10&center=true)](https://skillicons.dev/)
+[![Skill Icons](https://skillicons.dev/icons?i=rust,aws,react,&perline=10&center=true)](https://skillicons.dev/)
 
 ## Socials
 
