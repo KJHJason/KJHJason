@@ -18,7 +18,7 @@ My favourite language is Golang and I really enjoy doing backend development. Yo
 
 ## Technologies Used
 
-[![Skill Icons](https://skillicons.dev/icons?i=html,css,regex,js,py,cpp,go,cs,dotnet,md,sqlite,mysql,mongodb,flask,fastapi,docker,gcp,cloudflare,selenium,jquery,bootstrap,tailwind,bash,powershell&perline=9&center=true)](https://skillicons.dev/)
+[![Skill Icons](https://skillicons.dev/icons?i=html,css,svelte,regex,ts,js,py,cpp,go,cs,dotnet,md,sqlite,mysql,mongodb,flask,fastapi,docker,gcp,cloudflare,selenium,jquery,bootstrap,tailwind,bash,powershell&perline=9&center=true)](https://skillicons.dev/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjhjason&layout=compact&theme=dark&langs_count=8&hide=css,html,nsis)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -26,9 +26,11 @@ My favourite language is Golang and I really enjoy doing backend development. Yo
 
 [![Skill Icons](https://skillicons.dev/icons?i=vscode,visualstudio,postman,ps,&perline=9&center=true)](https://skillicons.dev/)
 
+<!---
 ## Learning
 
-[![Skill Icons](https://skillicons.dev/icons?i=ts,svelte,&perline=9&center=true)](https://skillicons.dev/)
+[![Skill Icons](https://skillicons.dev/icons?i=,&perline=9&center=true)](https://skillicons.dev/)
+-->
 
 ## Interested in Learning!
 
