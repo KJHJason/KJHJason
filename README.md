@@ -67,25 +67,21 @@ My favourite language is Golang and I really enjoy doing fullstack or backend de
 
 ## General
 
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)]((https://git-scm.com/))
 [![Regex](https://img.shields.io/badge/Regex-1A2C42?style=flat)](https://en.wikipedia.org/wiki/Regular_expression)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
 [![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev/)
-
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 <details>
   <summary>My Go-to Software</summary>
 
   [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
-  
   [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-  
   [![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)](https://www.jetbrains.com/go/)
-  
   [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
-  
   [![Brave](https://img.shields.io/badge/Brave-FB542B?style=flat&logo=Brave&logoColor=white)](https://brave.com/)
-  
   [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
-  
   [![Proton Drive](https://img.shields.io/badge/Proton%20Drive-6d4aff?style=flat&logo=proton%20drive&logoColor=white)](https://proton.me/drive)
 </details>
 
