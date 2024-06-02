@@ -78,7 +78,7 @@ My favourite language is Golang and I really enjoy doing fullstack or backend de
 
   [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
   [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-  [![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)](https://www.jetbrains.com/go/)
+  [![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=flat&logo=goland&logoColor=white)](https://www.jetbrains.com/go/)
   [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
   [![Brave](https://img.shields.io/badge/Brave-FB542B?style=flat&logo=Brave&logoColor=white)](https://brave.com/)
   [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
