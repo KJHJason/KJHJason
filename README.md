@@ -29,7 +29,11 @@ My favourite language is Golang and I really enjoy doing fullstack or backend de
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 [![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)](https://microsoft.com/powershell)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjhjason&layout=compact&theme=dark&langs_count=8&hide=css,html,nsis)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+    <summary>More Stats</summary>
+
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjhjason&layout=compact&theme=dark&langs_count=8&hide=css,html,nsis)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
 ## Backend
 
@@ -67,15 +71,17 @@ My favourite language is Golang and I really enjoy doing fullstack or backend de
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
 [![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 
-## My Go-to Software
+<details>
+    <summary>My Go-to Software</summary>
 
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)](https://www.jetbrains.com/go/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Brave](https://img.shields.io/badge/Brave-FB542B?style=flat&logo=Brave&logoColor=white)](https://brave.com/)
-[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
-[![Proton Drive](https://img.shields.io/badge/Proton%20Drive-6d4aff?style=flat&logo=proton%20drive&logoColor=white)](https://proton.me/drive)
+    [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+    [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+    [![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)](https://www.jetbrains.com/go/)
+    [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
+    [![Brave](https://img.shields.io/badge/Brave-FB542B?style=flat&logo=Brave&logoColor=white)](https://brave.com/)
+    [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+    [![Proton Drive](https://img.shields.io/badge/Proton%20Drive-6d4aff?style=flat&logo=proton%20drive&logoColor=white)](https://proton.me/drive)
+</details>
 
 ## On My Radar
 
