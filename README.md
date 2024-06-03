@@ -94,4 +94,4 @@ My favourite language is Golang and I really enjoy doing fullstack or backend de
 ## Reach Me At
 
 [![LinkedIn logo](https://img.shields.io/badge/Jason%20Kuan-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kjhjason/)
-[![Protonmail](https://img.shields.io/badge/kjhjason@pm.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kjhjason@pm.me)
+[![Protonmail](https://img.shields.io/badge/contact@kjhjason.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:contact@kjhjason.com)
