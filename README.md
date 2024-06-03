@@ -91,7 +91,7 @@ My favourite language is Golang and I really enjoy doing fullstack or backend de
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon&logoColor=white)](https://aws.amazon.com/)
 [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white)](https://www.digitalocean.com/)
 
-## You Can Reach Out To Me At
+## Reach Me At
 
 [![LinkedIn logo](https://img.shields.io/badge/Jason%20Kuan-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kjhjason/)
 [![Protonmail](https://img.shields.io/badge/kjhjason@pm.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kjhjason@pm.me)
