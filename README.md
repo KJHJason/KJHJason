@@ -27,8 +27,6 @@ My favourite language is Golang and I really enjoy doing fullstack or backend de
 [![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
-[![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)](https://microsoft.com/powershell)
 
 <details>
   <summary>More Stats</summary>
@@ -72,6 +70,8 @@ My favourite language is Golang and I really enjoy doing fullstack or backend de
 [![Regex](https://img.shields.io/badge/Regex-1A2C42?style=flat)](https://en.wikipedia.org/wiki/Regular_expression)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
 [![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)](https://microsoft.com/powershell)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
 <details>
