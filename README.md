@@ -6,8 +6,6 @@
   </p>
 </div>
 
-## About Me
-
 I'm Jason from Singapore.
 
 I mainly write code in Golang, Rust, and Python.
