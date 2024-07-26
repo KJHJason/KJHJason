@@ -14,7 +14,19 @@ I mainly write code in Golang, Rust, and Python.
 
 Go check out my website at [kjhjason.com](https://kjhjason.com) for more information about me like my experiences, skills, etc.
 
-![GitHub Metrics](https://github.com/KJHJason/KJHJason/blob/main/github-metrics.svg)
+![GitHub Metrics](https://github.com/KJHJason/KJHJason/blob/main/metrics/github-metrics.svg)
+
+<details>
+  <summary>Anilist - Favourites & Watching</summary>
+
+  [![Anilist Metrics](https://github.com/KJHJason/KJHJason/blob/main/metrics/anilist-metrics.svg)](https://anilist.co/user/Dratornic/)
+</details>
+
+<details>
+  <summary>Spotify - Recently Listened</summary>
+
+  [![Spotify Metrics](https://github.com/KJHJason/KJHJason/blob/main/metrics/spotify-metrics.svg)](https://open.spotify.com/user/emylivcwcx7k00d4qp1ntb3fy)
+</details>
 
 ## Reach Me At
 
