@@ -14,7 +14,7 @@ on:
       - '.github/workflows/metrics.yml'
 
 jobs:
-  github-metrics:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
