@@ -16,8 +16,6 @@ Go check out my website at [kjhjason.com](https://kjhjason.com) for more informa
 
 ![GitHub Metrics](https://github.com/KJHJason/KJHJason/blob/main/metrics/github-metrics.svg)
 
-<br />
-
 <details>
   <summary>Anilist - Favourites & Watching</summary>
 
