@@ -4,8 +4,8 @@
 name: Generate Metrics
 on:
   schedule:
-    # Run every hour
-    - cron: '0 * * * *'
+    # Run every 12 hours
+    - cron: '0 */12 * * *'
   workflow_dispatch:
   push:
     branches:
