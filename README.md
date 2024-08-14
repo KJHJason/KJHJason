@@ -1,10 +1,4 @@
-<div align="center">
-  <p>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=100&vCenter=true&width=435&lines=Hello!%20(%20%C2%B4%20%E2%96%BD%20`%20)" alt="Hello! ( ´ ▽ ` )">
-    </a>
-  </p>
-</div>
+[![Hello!](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=100&vCenter=true&width=435&lines=Hello!%20(%20%C2%B4%20%E2%96%BD%20`%20))](https://git.io/typing-svg)
 
 I'm Jason from Singapore.
 
